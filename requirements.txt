@@ -1,0 +1,8 @@
+streamlit
+pandas
+openpyxl
+fpdf
+matplotlib
+reportlab
+supabase
+st-supabase-connection
